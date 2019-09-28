@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="16" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="588360" started-at="2019-09-24T03:27:36Z" finished-at="2019-09-24T03:37:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="588360" started-at="2019-09-24T03:27:36Z" finished-at="2019-09-24T03:37:25Z">
+      <class name="SeleniumProject2.XeroTestScript">
+        <test-method status="PASS" signature="InitializeDriver()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="InitializeDriver" is-config="true" duration-ms="5818" started-at="2019-09-23T23:27:36Z" finished-at="2019-09-23T23:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeDriver -->
+        <test-method status="PASS" signature="AddAnotherOrganizationPaidVersion()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="AddAnotherOrganizationPaidVersion" duration-ms="138779" started-at="2019-09-23T23:27:42Z" finished-at="2019-09-23T23:30:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAnotherOrganizationPaidVersion -->
+        <test-method status="PASS" signature="AddAnotherOrganizationTrailVersion()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="AddAnotherOrganizationTrailVersion" duration-ms="76905" started-at="2019-09-23T23:30:01Z" finished-at="2019-09-23T23:31:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAnotherOrganizationTrailVersion -->
+        <test-method status="PASS" signature="AddAnotherorganizationWithUrrenQuickbooksUser()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="AddAnotherorganizationWithUrrenQuickbooksUser" duration-ms="79124" started-at="2019-09-23T23:31:18Z" finished-at="2019-09-23T23:32:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAnotherorganizationWithUrrenQuickbooksUser -->
+        <test-method status="PASS" signature="CheckIfUsersCanLookoutForTheirSubscriptionAndBilling()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="CheckIfUsersCanLookoutForTheirSubscriptionAndBilling" duration-ms="25068" started-at="2019-09-23T23:32:37Z" finished-at="2019-09-23T23:33:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckIfUsersCanLookoutForTheirSubscriptionAndBilling -->
+        <test-method status="PASS" signature="IncorrectEmailC()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="IncorrectEmailC" duration-ms="18400" started-at="2019-09-23T23:33:02Z" finished-at="2019-09-23T23:33:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IncorrectEmailC -->
+        <test-method status="PASS" signature="IncorrectPasswordB()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="IncorrectPasswordB" duration-ms="17550" started-at="2019-09-23T23:33:21Z" finished-at="2019-09-23T23:33:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IncorrectPasswordB -->
+        <test-method status="PASS" signature="NavigateToXEROD()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="NavigateToXEROD" duration-ms="17250" started-at="2019-09-23T23:33:38Z" finished-at="2019-09-23T23:33:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToXEROD -->
+        <test-method status="PASS" signature="NevigateToXeroA()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="NevigateToXeroA" duration-ms="27610" started-at="2019-09-23T23:33:55Z" finished-at="2019-09-23T23:34:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NevigateToXeroA -->
+        <test-method status="PASS" signature="SignUpToXDC()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="SignUpToXDC" duration-ms="23997" started-at="2019-09-23T23:34:23Z" finished-at="2019-09-23T23:34:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpToXDC -->
+        <test-method status="PASS" signature="SignUpToXDCB()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="SignUpToXDCB" duration-ms="19072" started-at="2019-09-23T23:34:47Z" finished-at="2019-09-23T23:35:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpToXDCB -->
+        <test-method status="PASS" signature="SignUpToXDCC()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="SignUpToXDCC" duration-ms="19552" started-at="2019-09-23T23:35:06Z" finished-at="2019-09-23T23:35:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpToXDCC -->
+        <test-method status="PASS" signature="SignUpToXDCD()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="SignUpToXDCD" duration-ms="13835" started-at="2019-09-23T23:35:26Z" finished-at="2019-09-23T23:35:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpToXDCD -->
+        <test-method status="PASS" signature="SignUpToXDCE()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="SignUpToXDCE" duration-ms="15787" started-at="2019-09-23T23:35:39Z" finished-at="2019-09-23T23:35:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpToXDCE -->
+        <test-method status="PASS" signature="TestAllTabsPage()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="TestAllTabsPage" duration-ms="33363" started-at="2019-09-23T23:35:55Z" finished-at="2019-09-23T23:36:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAllTabsPage -->
+        <test-method status="PASS" signature="TestLogoutFunctionality()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="TestLogoutFunctionality" duration-ms="23236" started-at="2019-09-23T23:36:29Z" finished-at="2019-09-23T23:36:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogoutFunctionality -->
+        <test-method status="FAIL" signature="TestUploadProfileImage()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="TestUploadProfileImage" duration-ms="31832" started-at="2019-09-23T23:36:52Z" finished-at="2019-09-23T23:37:24Z">
+          <exception class="org.openqa.selenium.InvalidArgumentException">
+            <message>
+              <![CDATA[invalid argument: 'text' is empty
+  (Session info: chrome=76.0.3809.132)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-IHKMVELS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\Ayushi\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 86cc6c51b0f2ec4efd5a44ee8e52f191]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.InvalidArgumentException: invalid argument: 'text' is empty
+  (Session info: chrome=76.0.3809.132)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-IHKMVELS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\Ayushi\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 86cc6c51b0f2ec4efd5a44ee8e52f191
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
+	at SeleniumProject2.XeroTestScript.TestUploadProfileImage(XeroTestScript.java:435)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:207)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:178)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.InvalidArgumentException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUploadProfileImage -->
+        <test-method status="PASS" signature="CloseTC()[pri:0, instance:SeleniumProject2.XeroTestScript@340f438e]" name="CloseTC" is-config="true" duration-ms="1148" started-at="2019-09-23T23:37:24Z" finished-at="2019-09-23T23:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseTC -->
+      </class> <!-- SeleniumProject2.XeroTestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
