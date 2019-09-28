@@ -1,7 +1,6 @@
 package SeleniumProject2;
 
 
-
 import java.io.IOException;
 
 import org.openqa.selenium.By;
